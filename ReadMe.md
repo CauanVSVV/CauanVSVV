@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 # 💫 About Me:
 Estudante de Ciência da Computação apaixonado por tecnologia <br>e programação, estou em busca de oportunidades para aprimorar <br>minhas habilidades e contribuir para projetos desafiadores. Com um <br>curso abrangente onde aprendi Python, HTML, CSS, JavaScript, MySQL <br>e React Native, estou ansioso para aplicar meu conhecimento em <br>projetos do mundo real e continuar minha jornada de aprendizado <br>na área de desenvolvimento de software.<br><br>🔭 Cursando Ciência da Computação na UNIFACS<br>👯 Estou a procura de estágio em front-end, back-end e área de TI
 
