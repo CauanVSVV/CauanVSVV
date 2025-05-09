@@ -1,7 +1,6 @@
 <div align="center">
- 
-![](./profile-3d-contrib/profile-green.svg)
 
+ 
 ![](./profile-3d-contrib/profile-green.svg)
 
 
