@@ -2,7 +2,7 @@
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CauanVSVV&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAUANVSVV&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CauanVSVV&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAUANVSVV&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
  | ----------- | ----------- |
 
 
@@ -10,9 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanvaladares/)
 
 # 💻 Tech Stack:
+<div align="center">
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,nest,docker,figma,github,materialui,postman,styledcomponents,vercel,vite,bootstrap,mongodb,discord,linkedin,instagram" />
 </a>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CauanVSVV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
