@@ -1,6 +1,4 @@
 <div align="center">
-
- 
  <!-- [](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <picture>
@@ -11,13 +9,13 @@
 
 <!-- _generated with [Platane/CauanVSVV](https://github.com/Platane/CauanVSVV)_ -->
 
-</br>
+<br>
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CauanVSVV&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAUANVSVV&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
  | ----------- | ----------- |
 
 
-</br>
+<br>
 
 <a href="https://skillicons.dev" align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,python,javascript,typescript,css,html,react,nodejs,nest,tailwind,sass,materialui,styledcomponents" />
@@ -25,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=vite,postman,vercel,mongodb,docker,figma" />
 </a>
 
-</br>
+<br>
 
 <p style="font-weight: bold; font-size: 1.5em;">🌐 Socials:</p>
 
