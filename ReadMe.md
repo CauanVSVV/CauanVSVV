@@ -8,7 +8,7 @@
  | ----------- | ----------- |
 
 
-</br>
+<br>
 
 <a href="https://skillicons.dev" align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,python,javascript,typescript,css,html,react,nodejs,nest,tailwind,sass,materialui,styledcomponents" />
@@ -16,9 +16,9 @@
   <img src="https://skillicons.dev/icons?i=vite,postman,vercel,mongodb,docker,figma" />
 </a>
 
-</br>
+<br>
 
-🌐 Socials:
+<p style="font-weight: bold; font-size: 1.5em;">🌐 Socials:</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://www.linkedin.com/in/cauanvaladares/)
 
