@@ -12,8 +12,8 @@
 # 💻 Tech Stack:
 
 <a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,python,javascript,typescript,css,html,react,tailwind,sass,nodejs,nest,docker,figma,github,materialu" />
-  <img src="https://skillicons.dev/icons?i=postman,styledcomponents,vercel,vite,bootstrap,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,python,javascript,typescript,css,html,react,nodejs,nest,tailwind,sass,materialu" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents,bootstrap,vite,postman,vercel,mongod,dockerb,figma" />
 </a>
 
 <!--
