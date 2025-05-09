@@ -1,7 +1,7 @@
 <div align="center">
 
  
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ <!-- [](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
