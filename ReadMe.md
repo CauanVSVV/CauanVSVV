@@ -1,6 +1,6 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
-# 💫 About Me:
-Estudante de Ciência da Computação apaixonado por tecnologia <br>e programação, estou em busca de oportunidades para aprimorar <br>minhas habilidades e contribuir para projetos desafiadores. Com um <br>curso abrangente onde aprendi Python, HTML, CSS, JavaScript, MySQL <br>e React Native, estou ansioso para aplicar meu conhecimento em <br>projetos do mundo real e continuar minha jornada de aprendizado <br>na área de desenvolvimento de software.<br><br>🔭 Cursando Ciência da Computação na UNIFACS<br>👯 Estou a procura de estágio em front-end, back-end e área de TI
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CauanVSVV&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAUANVSVV&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 
 
 ## 🌐 Socials:
@@ -13,6 +13,7 @@ Estudante de Ciência da Computação apaixonado por tecnologia <br>e programaç
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,nest,docker,figma,github,materialui,postman,styledcomponents,vercel,vite,bootstrap,mongodb,discord,linkedin,instagram" />
 </a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CauanVSVV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CauanVSVV&theme=tokyonight&hide_border=false)
