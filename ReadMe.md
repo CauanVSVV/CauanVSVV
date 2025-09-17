@@ -33,18 +33,18 @@ Busco constantemente evoluir, aplicar minhas habilidades em projetos reais e con
     <img src="https://skillicons.dev/icons?i=vite,postman,vercel,mongodb,docker,figma,nest,tailwind,sass,materialui,styledcomponents" />
   </a>
 </div >
-</br></br>
+
+
+
 
 ## 📈 Estatísticas GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=CauanVSVV&show_icons=true&theme=github_dark&locale=pt-br)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanVSVV&layout=compact&theme=github_dark&langs_count=6)
-
-
-
-</br>
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=CauanVSVV&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
+<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanVSVV&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
+</br></br>
 
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-Cauan%20Valadares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauanvaladares)](https://www.linkedin.com/in/cauanvaladares)
 [![GitHub](https://img.shields.io/badge/-@cauanvaladares-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CauanVSVV)
+
