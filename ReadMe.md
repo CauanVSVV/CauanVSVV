@@ -13,7 +13,7 @@
 🎓 Graduado em Ciência da Computação </br>
 💻 Apaixonado por desenvolvimento e tecnologia </br> 
 🚀 Buscando oportunidades em desenvolvimento web  </br>
-📍 Brasil  </br></br>
+📍 Brasil  </br>
 
 ## 💡 Sobre mim
 
